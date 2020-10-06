@@ -3,4 +3,4 @@ source "https://rubygems.org"
 gem 'rspec'
 gem 'open-uri'
 gem 'json'
-gem ''
+gem 'net/http'
